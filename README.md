@@ -6,6 +6,11 @@ Arnar Ólafsson, Sindri Snæfells Kristinsson & Kristófer Stefánsson
 <h2>About</h2>
 Jupyter Notebook written in Python3. The contents of the notebook is a story told through data using data sets, visualizations, cleaning and wrangling of data, etc...
 
+<h2>Usage</h2>
+
+- View through github https://github.com/Kristober/GAGR-Final-Project/blob/main/Tesla_Stock_Comparison.ipynb
+- Download project and use an IDE of your choice
+
 <h2>Goal and requirements</h2>
 
 Tell a story using a data set of your choice. The data set should be explored to get an understanding of what the data is all about (Value ranges, Cleanliness, etc...)
